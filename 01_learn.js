@@ -1,4 +1,4 @@
 console.log("Hello JS");
 
-name=("Ranobir Kapoor!");
-console.log(name);
+ let a = 23;
+ console.log(a);
